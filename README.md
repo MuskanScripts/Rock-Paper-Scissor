@@ -22,3 +22,5 @@ The project consists of three main files:
 1. **Clone Repository**: Clone the repository to your local machine.
    ```bash
    git clone https://github.com/your-username/rock-paper-scissors.git
+
+![image](https://github.com/MuskanScripts/Rock-Paper-Scissor/assets/155079924/dbcfe92f-8199-4a4e-af13-7547d7cea695)
